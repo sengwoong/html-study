@@ -1,0 +1,3 @@
+the_gazi_attack.html is templete create clone of it
+and change them as you want and rename the link file name from
+themanor.html to as you want e.g :--
